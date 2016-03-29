@@ -1,0 +1,31 @@
+section.formulario {
+	background-color: #FAFAFA;
+	height: 60%;
+	text-align: center;
+	padding-top: 5%;
+	font-size: 1.5em;
+	font-family: proximanova-bold;	
+}
+#formularios{
+	box-sizing:border-box;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+#formularios input{
+	padding: 2%;
+	margin: 2%;
+	width: 80%;
+	height: 10%;
+	text-align: center;
+}
+
+input.boton{
+	background-color: #58ACFA;
+	border: none;
+	color: white;
+	padding-top: 5%;
+	padding-left: 5%;
+	margin-left: 30px;
+	box-sizing:border-box;
+}

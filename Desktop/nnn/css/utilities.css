@@ -1,0 +1,77 @@
+/*Global*/
+*{
+	font-family: "nova";
+}
+
+@font-face{
+	font-family: proximanova-regular;
+	src: url(../fonts/proximanova-regular-webfont.ttf);
+}
+@font-face{
+	font-family: proximanova-bold ;
+	src: url(../fonts/proximanova-bold-webfont.ttf);
+}
+@font-face{
+	font-family: proximanova-light;
+	src: url(../fonts/proximanova-light-webfont.ttf);
+}
+@font-face{
+	font-family: proximanova-regitalic;
+	src: url(../fonts/proximanova-regitalic-webfont.ttf);
+}
+@font-face{
+	font-family: ProximaNova-Semibold;
+	src: url(../fonts/ProximaNova-Semibold.ttf);
+}
+
+/* Shortcuts */
+
+.pd-0{
+	padding: 0;
+}
+.pt-5{
+	padding-top: 5%;
+}
+.pb-5{
+	padding-bottom: 5%;
+}
+.mg-0{
+	margin: 0;
+}
+.w-100{
+	width: 100%;
+}
+.lh{
+	line-height: 1.5;
+}
+.text-center{
+	text-align: center;
+}
+.text-left{
+	text-align: left;
+}
+.text-white{
+	color: white;
+}
+.text-gray{
+	color: rgb(83, 88, 95);
+}
+.text-blue{
+ color: #192951;
+}
+.a-none-decoration{
+	text-decoration: none;
+}
+.bg-gray{
+	background-color: rgb(244, 244, 244);
+}
+.bg-img-block{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.spaci{
+	padding-left: 80px;
+	margin-left: 20px;
+	margin-top: 80px;
+}

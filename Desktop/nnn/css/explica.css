@@ -1,0 +1,11 @@
+#explica{
+	text-align: center;
+	width: 100%;
+	height: 530px;
+	padding: 1% 30%;
+	line-height:35px;
+	font-size: 18px;
+}
+section#explica strong{
+	color: blue;
+}

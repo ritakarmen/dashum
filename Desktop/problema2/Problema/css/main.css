@@ -1,0 +1,38 @@
+/* Inserta tu código aqui */
+.container-fluid{
+	padding-left: 3%;
+	padding-right: 3%;
+}
+.nav{
+	padding-top: 2%;
+}
+.cajaploma{
+	margin: 3% 0 3% 0;
+	width: 180px;
+	height: 3%;
+	padding: 1% 1% 0;
+	background: grey;
+	color: white;
+	font-size: 1.3em;
+}
+video{
+	border:1px solid black;
+	background: white;
+	width: 90%;
+	margin: 5%;
+}
+.controls{
+	background-color: red;
+}
+.cajavideo{
+	background-color: grey;
+}
+.controls {
+    background: red!important;
+}
+
+.Fullscreen toggle {
+	color: red;
+}
+.body{
+scrollbar-arrow-color:yellow;}

@@ -1,0 +1,27 @@
+header{
+	display: table;
+	background: white;
+	height: 10%;
+	width: 100%;
+	left: 0; 
+	top: 0; 
+	position: fixed;
+	z-index: 100;
+}
+header  img{
+	width: 50%;
+	height: auto;
+	float: left;
+	margin-left: 20%;
+}
+/*
+@media screen and (max-width: 800px){
+	section.logoPrincipal{
+		width: 210%;
+		
+	}
+	section.logoPrincipal h1{
+		width: 10%;
+		
+	}
+}*/
